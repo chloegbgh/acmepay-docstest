@@ -23,4 +23,5 @@
 
 ## Internal only
 
+* [Hidden 2](internal-only/hidden-2.md)
 * [Release checklist](internal-only/release-checklist.md)
