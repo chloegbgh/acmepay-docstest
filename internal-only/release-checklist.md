@@ -1,2 +1,4 @@
 # Release checklist
-
+---
+hidden: true
+---
