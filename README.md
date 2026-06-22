@@ -3,7 +3,7 @@ description: A dummy product docs site for testing GitBook features.
 icon: house
 ---
 
-# AcmePay Docs
+# Home
 
 Welcome to the AcmePay demo documentation site. AcmePay is a fictional payments platform used to test GitBook features.
 
@@ -16,5 +16,5 @@ This is dummy content. Use it to test Git Sync, GitBook editing, change requests
 * Edit this page in GitBook and sync it back to GitHub.
 * Edit this page in GitHub and watch GitBook update.
 * Ask the AI Assistant questions about AcmePay.
-* Create a change request for a risky change.
-This change was made directly in GitHub
+* Create a change request for a risky change. This change was made directly in GitHub
+* Testing Sync back to GitHub
