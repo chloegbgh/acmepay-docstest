@@ -17,3 +17,4 @@ This is dummy content. Use it to test Git Sync, GitBook editing, change requests
 * Edit this page in GitHub and watch GitBook update.
 * Ask the AI Assistant questions about AcmePay.
 * Create a change request for a risky change.
+This change was made directly in GitHub
