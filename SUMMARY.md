@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Home](README.md)
+* [Platform Overview](platform-overview/README.md)
+  * [Core Concepts](platform-overview/core-concepts/README.md)
+    * [Authentication Basics](platform-overview/core-concepts/authentication-basics.md)
 
 ## Getting started
 
